@@ -1,4 +1,4 @@
-From http
+From httpd
 MAINTAINER name charan
 LABEL this is my app image
 EXPOSE 80
